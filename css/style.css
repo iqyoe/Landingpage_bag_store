@@ -31,7 +31,11 @@
 }
 
 #catalogue{
-    background:#EEAA7B;
+    /* background:#EEAA7B; */
+    background: url("../img/slide-2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+
 }
 .img-top{
     width: 100%;
